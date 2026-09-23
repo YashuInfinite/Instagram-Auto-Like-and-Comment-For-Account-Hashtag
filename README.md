@@ -1,9 +1,6 @@
 # Instagram-Auto-Like-and-Comment-For-Account-Hashtag
 A comprehensive Python Selenium automation suite designed to auto-like and comment on Instagram (via hashtags or specific accounts) and YouTube (Videos and Shorts) for educational and testing purposes.
 
-# Instagram-Auto-Like-and-Comment-To-Hastag
-Instagram Auto Like and Comment To Hashtag using selenium with python
-
 ## Replace 11th line with hashtag and 19th and 21st line with username and password..
 
 # if you want with multiple Accs Then Copy From 16 line to End Line And Paste Again And Don't Forgot To Change Username & Pass And Required Hashtag...
